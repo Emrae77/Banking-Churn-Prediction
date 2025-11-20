@@ -182,11 +182,9 @@ To turn this project into a more production-ready banking solution:
 
 ---
 
-## 7. Repository Structure (Suggested)
+## 7. Repository Structure 
 
 ```text
 Banking-Churn-Prediction/
-├── jeffrey_churn_project.ipynb   # Main notebook
-├── data/                         # (Optional) Sample or synthetic data (if allowed)
-├── README.md                     # Project documentation
-└── .gitignore                    # Ignore large/temporary files
+├── jeffrey_churn_project.ipynb                          
+├── README.md                    
